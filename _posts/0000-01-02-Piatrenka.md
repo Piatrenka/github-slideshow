@@ -1,5 +1,6 @@
 ---
 layout: slide
+title: "Welcome to our second slide!"
 ---
-Any fool can know. The point is to understand.
+Your text
 Use the left arrow to go back!
